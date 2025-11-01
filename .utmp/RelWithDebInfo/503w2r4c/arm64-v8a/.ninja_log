@@ -1,0 +1,21 @@
+# ninja log v5
+182	720	7623115191865172	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6e427d19f5964143
+100	1417	7623115198815995	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	445bdf6af61d7c72
+721	1506	7623115199284726	C:/Users/rayha/Quest2_VRBrainApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/503w2r4c/obj/arm64-v8a/libswappywrapper.so	b1118bd01eab662a
+161	1229	7623115196952438	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e1916636dda26c0b
+171	1140	7623115196043529	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	490dba572552f97c
+137	1150	7623115196159067	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	359740471956dfb1
+113	1251	7623115197162950	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e82d4cad4aa231a2
+149	1168	7623115196344904	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	60e09cde1a44e329
+2	1375	7623115198409952	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bed4ccf162112e4d
+1417	1600	7623115200157887	C:/Users/rayha/Quest2_VRBrainApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/503w2r4c/obj/arm64-v8a/libgame.so	eb660b12e2a4f24c
+91	211	7623121063394177	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6e427d19f5964143
+212	462	7623121065268010	C:/Users/rayha/Quest2_VRBrainApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/503w2r4c/obj/arm64-v8a/libswappywrapper.so	b1118bd01eab662a
+39	617	7623121067423112	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	359740471956dfb1
+51	618	7623121067448227	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	490dba572552f97c
+64	674	7623121067994968	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	60e09cde1a44e329
+28	733	7623121068597184	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e82d4cad4aa231a2
+78	747	7623121068742792	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e1916636dda26c0b
+3	816	7623121069424568	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bed4ccf162112e4d
+14	870	7623121069962263	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	445bdf6af61d7c72
+870	1064	7623121071420630	C:/Users/rayha/Quest2_VRBrainApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/503w2r4c/obj/arm64-v8a/libgame.so	eb660b12e2a4f24c
